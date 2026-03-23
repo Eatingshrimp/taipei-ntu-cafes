@@ -1,31 +1,14 @@
 {
   "cafes": [
-    {
-      "name": "點亮咖啡 (The Lightened)",
-      "address": "臺北市大安區溫州街xx號",
-      "outlet": "有",
-      "lighting": "明亮",
-      "opening": "週二 13:00 起",
-      "desc": "鄰近台大，聽說內用環境適合讀書，提供插座。",
-      "source": "Google Search / 店家官網"
-    },
-    {
-      "name": "The Quiet Light / 默光咖啡",
-      "address": "臺北市大安區瑞安街xx號",
-      "outlet": "有",
-      "lighting": "舒適",
-      "opening": "週二 07:30 起",
-      "desc": "連鎖或分店，環境安靜，適合久坐。",
-      "source": "店家官網"
-    },
-    {
-      "name": "Clémentine Café 橙心工作室",
-      "address": "臺北市大安區復興南路xx號",
-      "outlet": "有/依座位",
-      "lighting": "明亮",
-      "opening": "11:00 起",
-      "desc": "小而雅的咖啡工作室，靠近台大區域。",
-      "source": "Google Search / 部落格"
-    }
+    { "name": "點亮咖啡 (The Lightened)", "address": "需確認（台大社科院附近）", "phone": "需確認", "opening": "需確認", "outlet": "有（評論提及）", "lighting": "明亮", "desc": "靠近台大，適合久坐讀書。", "source": "Google / Facebook" },
+    { "name": "The Quiet Light / 默光咖啡（瑞安店）", "address": "瑞安街（需確認門牌）", "phone": "需確認", "opening": "官網有分店資訊", "outlet": "有", "lighting": "舒適偏暖", "desc": "分店式咖啡廳，氛圍安靜。", "source": "https://www.thequietlightcoffee.com/" },
+    { "name": "Clémentine Café（橙心工作室）", "address": "需確認（復興南路 / 台大周邊）", "phone": "需確認", "opening": "需確認", "outlet": "部分座位有", "lighting": "明亮", "desc": "小而雅的咖啡工作室與輕食。", "source": "Google / 部落格" },
+    { "name": "AD Cafe（樓上的嬉皮）", "address": "需確認（台大後門周邊）", "phone": "需確認", "opening": "需確認", "outlet": "有（評論/貼文提及）", "lighting": "明亮", "desc": "平日不限時，學生常來讀書。", "source": "Instagram / 使用者貼文" },
+    { "name": "喜鵲咖啡（Magpie）", "address": "需確認（大安/溫州街一帶）", "phone": "需確認", "opening": "需確認", "outlet": "有（推薦文）", "lighting": "明亮", "desc": "在多篇大安區久坐咖啡推薦文中出現。", "source": "報導 / grinews" },
+    { "name": "白胖咖啡館", "address": "需確認（台大附近）", "phone": "需確認", "opening": "需確認", "outlet": "有（評論）", "lighting": "明亮", "desc": "數位遊牧/讀書族推薦。", "source": "部落格 / threads" },
+    { "name": "Flügel Studio", "address": "需確認", "phone": "需確認", "opening": "需確認", "outlet": "有（部落格提及）", "lighting": "明亮/適中", "desc": "在台大讀書咖啡特輯中出現。", "source": "部落格（yvonneblog 等）" },
+    { "name": "L'amour（讀書咖啡）", "address": "需確認", "phone": "需確認", "opening": "需確認", "outlet": "多為讀書推薦（可能有插座）", "lighting": "讀書友善", "desc": "出現在台大校園美食/讀書咖啡清單中。", "source": "部落格/推薦文" },
+    { "name": "Picnic 野餐咖啡（或類似複合式咖啡）", "address": "需確認", "phone": "需確認", "opening": "需確認", "outlet": "視店而定", "lighting": "視店而定（多為明亮）", "desc": "複合式咖啡，適合久坐。", "source": "部落格/推薦文章" },
+    { "name": "樂圓 / 樂圓咖啡", "address": "需確認（大安區）", "phone": "需確認", "opening": "需確認", "outlet": "有（推薦文）", "lighting": "明亮/適合讀書", "desc": "出現在 PIXNET / 部落格的大安區久坐咖啡推薦中。", "source": "https://moonfr.pixnet.net/ / 部落格" }
   ]
 }
