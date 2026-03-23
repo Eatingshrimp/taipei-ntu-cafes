@@ -1,0 +1,31 @@
+{
+  "cafes": [
+    {
+      "name": "點亮咖啡 (The Lightened)",
+      "address": "臺北市大安區溫州街xx號",
+      "outlet": "有",
+      "lighting": "明亮",
+      "opening": "週二 13:00 起",
+      "desc": "鄰近台大，聽說內用環境適合讀書，提供插座。",
+      "source": "Google Search / 店家官網"
+    },
+    {
+      "name": "The Quiet Light / 默光咖啡",
+      "address": "臺北市大安區瑞安街xx號",
+      "outlet": "有",
+      "lighting": "舒適",
+      "opening": "週二 07:30 起",
+      "desc": "連鎖或分店，環境安靜，適合久坐。",
+      "source": "店家官網"
+    },
+    {
+      "name": "Clémentine Café 橙心工作室",
+      "address": "臺北市大安區復興南路xx號",
+      "outlet": "有/依座位",
+      "lighting": "明亮",
+      "opening": "11:00 起",
+      "desc": "小而雅的咖啡工作室，靠近台大區域。",
+      "source": "Google Search / 部落格"
+    }
+  ]
+}
